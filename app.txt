@@ -1,4 +1,5 @@
 git practise repo
-branch check -- version B
+
+Login feature -version a and B
 yeah something i need to update 
 to check fetch and pull works on local
