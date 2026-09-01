@@ -1,3 +1,4 @@
 git practise repo
 branch check
 yeah something i need to update 
+to check fetch and pull works on local
