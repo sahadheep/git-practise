@@ -1,4 +1,4 @@
 git practise repo
-branch check
+branch check -- version A
 yeah something i need to update 
 to check fetch and pull works on local
